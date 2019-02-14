@@ -5,7 +5,7 @@
 
 Labs, Lecture Notebook, and data for ESPM-163ac: Environmental Justice. 
 
-Environmental Justice engages environmental problems, community responses, and policy debate regarding “environmental justice” (EJ) issues – essentially the race, class, and equity implications of environmental problems and policies. The course seeks to prepare students to critically analyze environmental outcomes and processes, providing frameworks for evaluating the equity implications of environmental policies and programs, and distributions of environmental amenities and burdens. Students will learn and apply statistical and Python programming skills to analyze the effects of race and environmental factors on health outcomes such as cardiovascular disease and asthma. 
+Environmental Justice engages environmental problems, community responses, and policy debate regarding “environmental justice” issues – essentially the race, class, and equity implications of environmental problems and policies. The course seeks to prepare students to critically analyze environmental outcomes and processes, providing frameworks for evaluating the equity implications of environmental policies and programs, and distributions of environmental amenities and burdens. Students will learn and apply statistical and Python programming skills to analyze the effects of race and environmental factors on health outcomes such as cardiovascular disease and asthma. 
 
 
 | Module | Summary                                                               | Data                                                   | Interact Link          |
