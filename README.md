@@ -12,4 +12,4 @@ Environmental Justice engages environmental problems, community responses, and p
 |----------|-----------------------------------------------------------------------|--------------------------------------------------------|------------------------|
 | Lab 1    | Python, Jupyter, Tables              | CalEnviroScreen 3.0                                           | https://tinyurl.com/y4fru2ro |
 | Lecture  | Introduction to Correlation and Prediction (Part 1)            | CalEnviroScreen 3.0              | https://tinyurl.com/y4ke2kv6 |
-| Lab 2    | Correlation and Linear Regression (Part 2)                                 | CalEnviroScreen 3.0 |  |
+| Lab 2    | Correlation and Linear Regression (Part 2)                                 | CalEnviroScreen 3.0 | https://tinyurl.com/y576d9g9 |
