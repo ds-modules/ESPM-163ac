@@ -10,6 +10,6 @@ Environmental Justice engages environmental problems, community responses, and p
 
 | Module | Summary                                                               | Data                                                   | Interact Link          |
 |----------|-----------------------------------------------------------------------|--------------------------------------------------------|------------------------|
-| Lab 1    | Python, Jupyter, Tables              | U.S. Census Data                                           | https://tinyurl.com/y4fru2ro |
-| Lecture  | Introduction to Correlation and Prediction (Part 1)            | U.S. Census Data              |  |
-| Lab 2    | Correlation and Linear Regression (Part 2)                                 | U.S. Census Data |  |
+| Lab 1    | Python, Jupyter, Tables              | CalEnviroScreen 3.0                                           | https://tinyurl.com/y4fru2ro |
+| Lecture  | Introduction to Correlation and Prediction (Part 1)            | CalEnviroScreen 3.0              | https://tinyurl.com/y4ke2kv6 |
+| Lab 2    | Correlation and Linear Regression (Part 2)                                 | CalEnviroScreen 3.0 |  |
